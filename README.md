@@ -1,5 +1,11 @@
 # Cortex LLM
 
+[![CI](https://github.com/cortexlinux/cortex-llm/actions/workflows/ci.yml/badge.svg)](https://github.com/cortexlinux/cortex-llm/actions/workflows/ci.yml)
+[![PyPI](https://img.shields.io/pypi/v/cortex-llm)](https://pypi.org/project/cortex-llm/)
+[![Python](https://img.shields.io/pypi/pyversions/cortex-llm)](https://pypi.org/project/cortex-llm/)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+[![codecov](https://codecov.io/gh/cortexlinux/cortex-llm/branch/main/graph/badge.svg)](https://codecov.io/gh/cortexlinux/cortex-llm)
+
 Local LLM inference runtime for Cortex Linux. Run large language models on your own hardware with GPU acceleration.
 
 ## Features
